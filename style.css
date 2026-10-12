@@ -10,7 +10,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-    background-color: #141414;
   background-image: url("./BACKGROUND_FINAL.jpg");
   background-position: center center;
   background-repeat: no-repeat !important;
